@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
+.petite-bar{
+    height: 10px;
+    /* width: 200px; */
+}
+.padding-style{
+    padding: 10px;
+    border-radius: 5px;
+}
+/* #F0F0FD */
+/* #B5C4FB */
